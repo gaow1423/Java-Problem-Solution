@@ -4,20 +4,8 @@
 ## Table of Content
 
 -[Interface](#interface)
--[Data Structure](#data-structures)
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
--[]()
+-[Data Structures](#data-structures)
+
 
 ## Interface
 -[]()
