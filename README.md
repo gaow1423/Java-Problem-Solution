@@ -3,8 +3,8 @@
 
 ## Table of Content
 
--[Interface](#interface)
--[Data Structures](#data-structures)
+- [Interface](#interface)
+- [Data Structures](#data-structures)
 
 
 ## Interface
