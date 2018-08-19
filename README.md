@@ -7,7 +7,7 @@
 - [Data Structures](#data-structures)
 - [Array]()
 - [Dynamic Programming]()
-- [String]()
+- [String](#string)
 - [Math]()
 - [Tree]()
 - [Hash Table]()
@@ -58,6 +58,14 @@
 - []()
 - []()
 
+## String
+- [Custom_Sort_String](src/topics/String/791_Custom_Sort_String.java)
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## Backtracking
 - [Letter_Combinations_of_a_Phone_Number](src/topics/Backtracking/17_Letter_Combinations_of_a_Phone_Number.java)
 - [Combination_Sum](src/topics/Backtracking/39_Combination_Sum.java)
@@ -80,3 +88,5 @@
 - []()
 - []()
 - []()
+
+
