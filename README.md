@@ -12,7 +12,7 @@
 - [Tree]()
 - [Hash Table]()
 - [Depth-first Search]()
-- [Binary Search]()
+- [Binary Search](#binary-search)
 - [Two Pointers]()
 - [Breadth-first Search]()
 - [Backtracking](#backtracking)
@@ -60,6 +60,18 @@
 
 ## String
 - [Custom_Sort_String](src/topics/String/791_Custom_Sort_String.java)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Binary Search
+- [First_Bad_Version](src/topics/Binary-Search/278_First_Bad_Version.java)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
