@@ -10,7 +10,7 @@
 - [String](#string)
 - [Math]()
 - [Tree]()
-- [Hash Table]()
+- [Hash Table](#hash-table)
 - [Depth-first Search]()
 - [Binary Search](#binary-search)
 - [Two Pointers]()
@@ -68,6 +68,13 @@
 - []()
 - []()
 
+### Hash Table
+- [Strobogrammatic_Number](src/topics/Hash_Map/246_Strobogrammatic_Number.java)
+- []()
+- []()
+- []()
+- []()
+
 ### Binary Search
 - [First_Bad_Version](src/topics/Binary-Search/278_First_Bad_Version.java)
 - []()
@@ -100,7 +107,7 @@
 - [Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List](src/topics/Linked-List/426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.java)
 - [Reverse_Linked_List](src/topics/Linked-List/206_Reverse_Linked_List.java)
 - [Reverse_Linked_List_II](src/topics/Linked-List/92_Reverse_Linked_List_II.java)
-- []()
+- [Reorder_List](src/topics/Linked-List/143_Reorder_List.java)
 - []()
 
 
