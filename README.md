@@ -62,7 +62,7 @@
 
 ### String
 - [Custom_Sort_String](src/topics/String/791_Custom_Sort_String.java)
-- []()
+- [Goat_Latin](src/topics/String/824_Goat_Latin.java)
 - []()
 - []()
 - []()
@@ -70,7 +70,7 @@
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Map/246_Strobogrammatic_Number.java)
-- []()
+- [Maximum_Size_Subarray_Sum_Equals_k](src/topics/Hash_Map/325_Maximum_Size_Subarray_Sum_Equals_k.java)
 - []()
 - []()
 - []()
