@@ -3,12 +3,13 @@
 
 ## Table of Content
 
+- [typical_problem](#typical_problem)
 - [Interface](#interface)
 - [Data Structures](#data-structures)
 - [Array]()
 - [Dynamic Programming]()
 - [String](#string)
-- [Math]()
+- [Math](#math)
 - [Tree]()
 - [Hash Table](#hash-table)
 - [Depth-first Search]()
@@ -20,7 +21,7 @@
 - [Design]()
 - [Greedy]()
 - [Linked List](#linked-list)
-- [Bit Manipulation]()
+- [Bit Manipulation](#bit-manipulation)
 - [Heap]()
 - [Sort]()
 - [Graph]()
@@ -41,6 +42,14 @@
 - [Reservoir Sampling]()
 - [Geometry]()
 - [Memoization]()
+
+## typical problem
+- [insertion_sort](src/typical_problem/sort/insertion_sort.java)
+- [merge_sort](src/typical_problem/sort/merge_sort.java)
+- [quick_sort](src/typical_problem/sort/quick_sort.java)
+- [selection_sort](src/typical_problem/sort/selection_sort.java)
+- []()
+- []()
 
 ## Interface
 - []()
@@ -63,8 +72,14 @@
 ### String
 - [Custom_Sort_String](src/topics/String/791_Custom_Sort_String.java)
 - [Goat_Latin](src/topics/String/824_Goat_Latin.java)
+- [Add_Strings](src/topics/String/415_Add_Strings.java)
 - []()
 - []()
+- []()
+
+### Math
+- [Add_Strings](src/topics/Math/415_Add_Strings.java)
+- [Consecutive_Numbers_Sum](src/topics/Math/829_Consecutive_Numbers_Sum.java)
 - []()
 - []()
 
@@ -77,7 +92,7 @@
 
 ### Binary Search
 - [First_Bad_Version](src/topics/Binary-Search/278_First_Bad_Version.java)
-- []()
+- [Peak_Index_in_a_Mountain_Array](src/topics/Binary-Search/852_Peak_Index_in_a_Mountain_Array.java)
 - []()
 - []()
 - []()
@@ -110,6 +125,12 @@
 - [Reorder_List](src/topics/Linked-List/143_Reorder_List.java)
 - []()
 
+### Bit Manipulation
+- [IP_to_CIDR](src/topics/Bit_Manipulation/751_IP_to_CIDR.java)
+- []()
+- []()
+- []()
+- []()
 
 ### Trie
 - [Add_and_Search_Word-Data_Structure_design](src/topics/Trie/211_Add_and_Search_Word-Data_Structure_design.java)
