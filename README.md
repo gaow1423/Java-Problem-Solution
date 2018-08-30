@@ -93,7 +93,7 @@
 ### Math
 - [Add_Strings](src/topics/Math/415_Add_Strings.java)
 - [Consecutive_Numbers_Sum](src/topics/Math/829_Consecutive_Numbers_Sum.java)
-- [Continuous_Subarray_Sum]((src/topics/Math/523_Continuous_Subarray_Sum.java)
+- [Continuous_Subarray_Sum](src/topics/Math/523_Continuous_Subarray_Sum.java)
 - []()
 
 ### Tree
