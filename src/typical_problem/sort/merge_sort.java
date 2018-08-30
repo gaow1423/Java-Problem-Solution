@@ -1,3 +1,5 @@
+//the running time is O(nlgn). so does the worst case.
+
 class Solution{
     public static void main(String[] args){
         int[] inputArray = {9, 7, 3, 1, 6, 3, 2, 6, 8, 9, 2, 3, 0};

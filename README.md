@@ -6,11 +6,11 @@
 - [typical_problem](#typical_problem)
 - [Interface](#interface)
 - [Data Structures](#data-structures)
-- [Array]()
+- [Array](#array)
 - [Dynamic Programming]()
 - [String](#string)
 - [Math](#math)
-- [Tree]()
+- [Tree](#tree)
 - [Hash Table](#hash-table)
 - [Depth-first Search]()
 - [Binary Search](#binary-search)
@@ -68,6 +68,19 @@
 - []()
 
 ## Problems
+- [Toeplitz_Matrix](src/topics/Array/766_Toeplitz_Matrix.java)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+### Array
+- [Two_Sum](src/topics/Array/1_Two_Sum)
+- [Toeplitz_Matrix](src/topics/Array/766_Toeplitz_Matrix.java)
+- [Find_the_Celebrity](src/topics/Array/277_Find_the_Celebrity.java)
+- [Array_Partition_I](src/topics/Array/561_Array_Partition_I.java)
+- []()
 
 ### String
 - [Custom_Sort_String](src/topics/String/791_Custom_Sort_String.java)
@@ -80,8 +93,13 @@
 ### Math
 - [Add_Strings](src/topics/Math/415_Add_Strings.java)
 - [Consecutive_Numbers_Sum](src/topics/Math/829_Consecutive_Numbers_Sum.java)
+- [Continuous_Subarray_Sum]((src/topics/Math/523_Continuous_Subarray_Sum.java)
 - []()
-- []()
+
+### Tree
+- [Merge_Two_Binary_Trees](src/topics/Tree/617_Merge_Two_Binary_Trees.java)
+- [Validate_Binary_Search_Tree](src/topics/Tree/98_Validate_Binary_Search_Tree.java)
+- [Unique_Binary_Search_Trees](src/topics/Tree/96_Unique_Binary_Search_Trees.java)
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Map/246_Strobogrammatic_Number.java)
