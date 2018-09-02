@@ -45,7 +45,7 @@
 
 ## typical problem
 - [Sort](#sort)
-- []()
+- [Queue](#queue)
 - []()
 - []()
 - []()
@@ -57,6 +57,14 @@
 - [quick_sort](src/typical_problem/sort/quick_sort.java)
 - [selection_sort](src/typical_problem/sort/selection_sort.java)
 - [quick_select](src/typical_problem/sort/quick_select.java)
+- []()
+
+## Queue
+- [priority_queue](src/typical_problem/queue/priority_queue.java)
+- []()
+- []()
+- []()
+- []()
 - []()
 
 ## Interface
