@@ -3,7 +3,7 @@
 
 ## Table of Content
 
-- [typical_problem](#typical_problem)
+- [typical_problem](#typical-problem)
 - [Interface](#interface)
 - [Data Structures](#data-structures)
 - [Array](#array)
