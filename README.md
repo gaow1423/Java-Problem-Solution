@@ -44,11 +44,19 @@
 - [Memoization]()
 
 ## typical problem
+- [Sort](#sort)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Sort
 - [insertion_sort](src/typical_problem/sort/insertion_sort.java)
 - [merge_sort](src/typical_problem/sort/merge_sort.java)
 - [quick_sort](src/typical_problem/sort/quick_sort.java)
 - [selection_sort](src/typical_problem/sort/selection_sort.java)
-- []()
+- [quick_select](src/typical_problem/sort/quick_select.java)
 - []()
 
 ## Interface
@@ -80,13 +88,19 @@
 - [Toeplitz_Matrix](src/topics/Array/766_Toeplitz_Matrix.java)
 - [Find_the_Celebrity](src/topics/Array/277_Find_the_Celebrity.java)
 - [Array_Partition_I](src/topics/Array/561_Array_Partition_I.java)
-- []()
+
 
 ### String
 - [Custom_Sort_String](src/topics/String/791_Custom_Sort_String.java)
 - [Goat_Latin](src/topics/String/824_Goat_Latin.java)
 - [Add_Strings](src/topics/String/415_Add_Strings.java)
 - [Roman_to_Integer](src/topics/String/13_Roman_to_Integer.java)
+- [Reverse_String](src/topics/String/344_Reverse_String.java)
+- [Integer_to_Roman](src/topics/String/12_Integer_to_Roman.java)
+- [Count_and_Say](src/topics/String/38_Count_and_Say.java)
+- [Reverse_Words_in_a_String](src/topics/String/151_Reverse_Words_in_a_String.java)
+- []()
+- []()
 - []()
 - []()
 
