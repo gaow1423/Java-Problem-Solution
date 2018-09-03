@@ -43,10 +43,10 @@
 - [Geometry]()
 - [Memoization]()
 
-## typical problem
+## Typical Problem
 - [Sort](#sort)
 - [Queue](#queue)
-- []()
+- [Binary heap](#binary-heap)
 - []()
 - []()
 - []()
@@ -57,23 +57,27 @@
 - [quick_sort](src/typical_problem/sort/quick_sort.java)
 - [selection_sort](src/typical_problem/sort/selection_sort.java)
 - [quick_select](src/typical_problem/sort/quick_select.java)
+- [heap_sort](src/typical_problem/sort/heap_sort.java)
 - []()
+- []()
+
 
 ## Queue
 - [priority_queue](src/typical_problem/queue/priority_queue.java)
 - []()
 - []()
+
+
+## Binary Heap
+- [binary_heap](src/typical_problem/binary_heap/binary_heap.java)
 - []()
-- []()
-- []()
+
 
 ## Interface
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
+
 
 ## Data Structures
 - []()
@@ -107,8 +111,8 @@
 - [Integer_to_Roman](src/topics/String/12_Integer_to_Roman.java)
 - [Count_and_Say](src/topics/String/38_Count_and_Say.java)
 - [Reverse_Words_in_a_String](src/topics/String/151_Reverse_Words_in_a_String.java)
-- []()
-- []()
+- [Judge_Route_Circle](src/topics/String/657_Judge_Route_Circle.java)
+- [String_to_Integer_atoi](src/topics/String/8_String_to_Integer_atoi.java)
 - []()
 - []()
 
@@ -126,7 +130,7 @@
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Map/246_Strobogrammatic_Number.java)
 - [Maximum_Size_Subarray_Sum_Equals_k](src/topics/Hash_Map/325_Maximum_Size_Subarray_Sum_Equals_k.java)
-- []()
+- [Group_Anagrams](src/topics/Hash_Map/49_Group_Anagrams.java)
 - []()
 - []()
 
@@ -150,7 +154,7 @@
 - [Subsets](src/topics/Backtracking/78_Subsets.java)
 - [Combination_Sum_III](src/topics/Backtracking/216_Combination_Sum_III.java)
 - [Add_and_Search_Word-Data_Structure_design](src/topics/Backtracking/211_Add_and_Search_Word-Data_Structure_design.java)
-- []()
+- [Generate_Parentheses](src/topics/Backtracking/22_Generate_Parentheses.java)
 - []()
 - []()
 - []()
