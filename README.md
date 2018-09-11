@@ -113,7 +113,7 @@
 - [Reverse_Words_in_a_String](src/topics/String/151_Reverse_Words_in_a_String.java)
 - [Judge_Route_Circle](src/topics/String/657_Judge_Route_Circle.java)
 - [String_to_Integer_atoi](src/topics/String/8_String_to_Integer_atoi.java)
-- []()
+- [Implement_strStr](src/topics/String/8_Implement_strStr.java)
 - []()
 
 ### Math
@@ -126,6 +126,17 @@
 - [Merge_Two_Binary_Trees](src/topics/Tree/617_Merge_Two_Binary_Trees.java)
 - [Validate_Binary_Search_Tree](src/topics/Tree/98_Validate_Binary_Search_Tree.java)
 - [Unique_Binary_Search_Trees](src/topics/Tree/96_Unique_Binary_Search_Trees.java)
+- [Trim_a_Binary_Search_Tree](src/topics/Tree/669_Trim_a_Binary_Search_Tree.java)
+- [Maximum_Binary_Tree](src/topics/Tree/654_Maximum_Binary_Tree.java)
+- [Lowest_Common_Ancestor_of_a_Binary_Tree](src/topics/Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)
+- [Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal](src/topics/Tree/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)
+- [Closest_Binary_Search_Tree_Value](src/topics/Tree/270_Closest_Binary_Search_Tree_Value.java)
+- [Count_Complete_Tree_Nodes](src/topics/Tree/222_Count_Complete_Tree_Nodes.java)
+- [Minimum_Depth_of_Binary_Tree](src/topics/Tree/111_Minimum_Depth_of_Binary_Tree.java)
+- []()
+- []()
+- []()
+- []()
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Map/246_Strobogrammatic_Number.java)
