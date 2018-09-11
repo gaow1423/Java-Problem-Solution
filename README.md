@@ -48,7 +48,7 @@
 - [Sort](#sort)
 - [Queue](#queue)
 - [Binary heap](#binary-heap)
-- [hahahha]()
+- []()
 - []()
 - []()
 
