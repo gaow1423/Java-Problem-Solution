@@ -44,3 +44,30 @@ class Solution {
     	return false;
     }
 }
+
+class Solution {
+    public int numJewelsInStones(String J, String S) {
+    	char[] stones = S.toCharArray[];
+    	int count = 0;
+    	Map<Character, Integer> map = HashMap<Character, Integer> ();
+    	for(char c ：stones){
+    		map.put(c, map.getOrDefault(c, 0) + 1);
+    	}
+    	for(char c : J.toCharArray[]){
+    		if(map.containsKey(c))
+    			count += map.get(c);
+    	}
+    	return count;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
