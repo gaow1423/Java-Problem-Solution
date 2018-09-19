@@ -140,10 +140,10 @@
 - [Path_Sum_III](src/topics/Tree/437_Path_Sum_III.java)
 
 ### Hash Table
-- [Strobogrammatic_Number](src/topics/Hash_Map/246_Strobogrammatic_Number.java)
-- [Maximum_Size_Subarray_Sum_Equals_k](src/topics/Hash_Map/325_Maximum_Size_Subarray_Sum_Equals_k.java)
-- [Group_Anagrams](src/topics/Hash_Map/49_Group_Anagrams.java)
-- []()
+- [Strobogrammatic_Number](src/topics/Hash_Table/246_Strobogrammatic_Number.java)
+- [Maximum_Size_Subarray_Sum_Equals_k](src/topics/Hash_Table/325_Maximum_Size_Subarray_Sum_Equals_k.java)
+- [Group_Anagrams](src/topics/Hash_Table/49_Group_Anagrams.java)
+- [Subdomain_Visit_Count](src/topics/Hash_Table/811_Subdomain_Visit_Count.java)
 - []()
 
 ### Binary Search
