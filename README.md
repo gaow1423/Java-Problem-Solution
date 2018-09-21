@@ -32,7 +32,7 @@
 - [Binary Search Tree]()
 - [Recursion]()
 - [Segment Tree]()
-- [Queue]()
+- [Queue](#queue)
 - [Random]()
 - [Binary Indexed Tree]()
 - [Topological Sort]()
@@ -48,6 +48,14 @@
 - [Sort](#sort)
 - [Queue](#queue)
 - [Binary heap](#binary-heap)
+- []()
+- []()
+- []()
+
+## queue
+- [priority_queue](src/typical_problem/queue/Max_PQ.java)
+- []()
+- []()
 - []()
 - []()
 - []()
