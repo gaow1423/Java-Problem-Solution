@@ -120,7 +120,8 @@
 - [Judge_Route_Circle](src/topics/String/657_Judge_Route_Circle.java)
 - [String_to_Integer_atoi](src/topics/String/8_String_to_Integer_atoi.java)
 - [Implement_strStr](src/topics/String/8_Implement_strStr.java)
-- []()
+- [Next_Closest_Time](src/topics/String/681_Next_Closest_Time.java)
+
 
 ### Math
 - [Add_Strings](src/topics/Math/415_Add_Strings.java)
@@ -149,7 +150,8 @@
 - [Maximum_Size_Subarray_Sum_Equals_k](src/topics/Hash_Table/325_Maximum_Size_Subarray_Sum_Equals_k.java)
 - [Group_Anagrams](src/topics/Hash_Table/49_Group_Anagrams.java)
 - [Subdomain_Visit_Count](src/topics/Hash_Table/811_Subdomain_Visit_Count.java)
-- []()
+- [Copy_List_with_Random_Pointer](src/topics/Hash_Table/138_Copy_List_with_Random_Pointer.java)
+
 
 ### Binary Search
 - [First_Bad_Version](src/topics/Binary-Search/278_First_Bad_Version.java)
