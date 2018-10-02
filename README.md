@@ -8,7 +8,7 @@
 - [Interface](#interface)
 - [Data Structures](#data-structures)
 - [Array](#array)
-- [Dynamic Programming]()
+- [Dynamic Programming](#Dynamic-Programming)
 - [String](#string)
 - [Math](#math)
 - [Tree](#tree)
@@ -107,6 +107,12 @@
 - [Find_the_Celebrity](src/topics/Array/277_Find_the_Celebrity.java)
 - [Array_Partition_I](src/topics/Array/561_Array_Partition_I.java)
 
+###Dynamic-Programming
+- [Paint_House](src/topics/Dynamic-Programming/256_Paint_House)
+- []()
+- []()
+- []()
+- []()
 
 ### String
 - [Custom_Sort_String](src/topics/String/791_Custom_Sort_String.java)
