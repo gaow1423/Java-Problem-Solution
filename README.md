@@ -13,7 +13,7 @@
 - [Math](#math)
 - [Tree](#tree)
 - [Hash Table](#hash-table)
-- [Depth-first Search]()
+- [Depth-first Search](#Depth-first Search)
 - [Binary Search](#binary-search)
 - [Two Pointers](#Two-Pointers)
 - [Breadth-first Search]()
@@ -152,6 +152,14 @@
 - [Subdomain_Visit_Count](src/topics/Hash_Table/811_Subdomain_Visit_Count.java)
 - [Copy_List_with_Random_Pointer](src/topics/Hash_Table/138_Copy_List_with_Random_Pointer.java)
 
+### Depth-first Search
+- [Max_Area_of_Island](src/topics/Depth-first-Search/695_Max_Area_of_Island.java)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ### Binary Search
 - [First_Bad_Version](src/topics/Binary-Search/278_First_Bad_Version.java)
