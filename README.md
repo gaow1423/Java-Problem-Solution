@@ -109,9 +109,9 @@
 
 ###Dynamic-Programming
 - [Paint_House](src/topics/Dynamic-Programming/256_Paint_House)
-- []()
-- []()
-- []()
+- [Counting_Bits](src/topics/Dynamic-Programming/338_Counting_Bits)
+- [Word_Break](src/topics/Dynamic-Programming/139_Word_Break.java)
+- [Maximum_Product_Subarray](src/topics/Dynamic-Programming/152_Maximum_Product_Subarray.java)
 - []()
 
 ### String
