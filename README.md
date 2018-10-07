@@ -112,6 +112,11 @@
 - [Counting_Bits](src/topics/Dynamic-Programming/338_Counting_Bits)
 - [Word_Break](src/topics/Dynamic-Programming/139_Word_Break.java)
 - [Maximum_Product_Subarray](src/topics/Dynamic-Programming/152_Maximum_Product_Subarray.java)
+- [Min_Cost_Climbing_Stairs](src/topics/Dynamic-Prrogramming/746_Min_Cost_Climbing_Stairs.java)
+- [Paint_Fence](src/topics/Dynamic-Prrogramming/276_Paint_Fence.java)
+- [Range_Sum_Query-Immutable](src/topics/Dynamic-Prrogramming/303_Range_Sum_Query-Immutable.java)
+- [Unique_Paths](src/topics/Dynamic-Prrogramming/62_Unique_Paths.java)
+- []()
 - []()
 
 ### String
