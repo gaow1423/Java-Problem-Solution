@@ -165,8 +165,8 @@
 
 ### Depth-first Search
 - [Max_Area_of_Island](src/topics/Depth-first-Search/695_Max_Area_of_Island.java)
-- []()
-- []()
+- [Maximum_Depth_of_N-ary_Tree](src/topics/Depth-first-Search/559_Maximum_Depth_of_N-ary_Tree.java)
+- [Convert_Sorted_List_to_Binary_Search_Tree](src/topics/Depth-first-Search/109_Convert_Sorted_List_to_Binary_Search_Tree.java)
 - []()
 - []()
 - []()
