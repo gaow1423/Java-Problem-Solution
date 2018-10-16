@@ -116,7 +116,7 @@
 - [Paint_Fence](src/topics/Dynamic-Prrogramming/276_Paint_Fence.java)
 - [Range_Sum_Query-Immutable](src/topics/Dynamic-Prrogramming/303_Range_Sum_Query-Immutable.java)
 - [Unique_Paths](src/topics/Dynamic-Prrogramming/62_Unique_Paths.java)
-- []()
+- [Palindromic_Substrings](src/topics/Dynamic-Prrogramming/647_Palindromic_Substrings.java)
 - []()
 
 ### String
@@ -175,7 +175,7 @@
 ### Binary Search
 - [First_Bad_Version](src/topics/Binary-Search/278_First_Bad_Version.java)
 - [Peak_Index_in_a_Mountain_Array](src/topics/Binary-Search/852_Peak_Index_in_a_Mountain_Array.java)
-- []()
+- [Search_in_a_Sorted_Array_of_Unknown_Size](src/topics/Binary-Search/702_earch_in_a_Sorted_Array_of_Unknown_Size.java)
 - []()
 - []()
 - []()
@@ -209,6 +209,11 @@
 - []()
 - []()
 
+### Stack
+- [Implement_Queue_using_Stacks](src/topics/Stack/232_Implement_Queue_using_Stacks.java)
+- []()
+- []()
+
 ### Linked List
 - [Add_Two_Numbers](src/topics/Linked-List/2_Add_Two_Numbers.java)
 - [Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List](src/topics/Linked-List/426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.java)
@@ -220,6 +225,12 @@
 ### Bit Manipulation
 - [IP_to_CIDR](src/topics/Bit_Manipulation/751_IP_to_CIDR.java)
 - []()
+- []()
+- []()
+- []()
+
+### Heap
+- [Kth_Largest_Element_in_a_Stream](src/topics/heap/703_Kth_Largest_Element_in_a_Stream.java)
 - []()
 - []()
 - []()
