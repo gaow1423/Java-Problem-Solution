@@ -208,6 +208,14 @@
 - []()
 - []()
 
+### Design
+- [LRU_Cahce](src/topics/Design/146_LRU_Cache.java)
+- []()
+- []()
+- []()
+- []()
+
+
 ### Stack
 - [Implement_Queue_using_Stacks](src/topics/Stack/232_Implement_Queue_using_Stacks.java)
 - []()
