@@ -19,7 +19,7 @@
 - [Breadth-first Search]()
 - [Backtracking](#backtracking)
 - [Stack]()
-- [Design]()
+- [Design](#Design)
 - [Greedy]()
 - [Linked List](#linked-list)
 - [Bit Manipulation](#bit-manipulation)
@@ -209,8 +209,8 @@
 - []()
 
 ### Design
-- [LRU_Cahce](src/topics/Design/146_LRU_Cache.java)
-- []()
+- [LRU_Cache](src/topics/Design/146_LRU_Cache.java)
+- [LFU_Cache](src/topics/Design/460_LFU_Cache.java)
 - []()
 - []()
 - []()
