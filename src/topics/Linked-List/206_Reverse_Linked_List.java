@@ -36,6 +36,8 @@ class Solution {
     }
 }
 
+
+
 //recursive method
 // class Solution {
 //     public ListNode reverseList(ListNode head) {
