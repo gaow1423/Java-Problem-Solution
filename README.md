@@ -48,7 +48,7 @@
 - [Sort](#sort)
 - [Queue](#queue)
 - [Binary heap](#binary-heap)
-- []()
+- [BFS](#BFS)
 - []()
 - []()
 
@@ -56,6 +56,10 @@
 - [priority_queue](src/typical_problem/queue/Max_PQ.java)
 - []()
 
+## BFS
+- [BFS_inGraph](src/typical_problem/BFS/BFS_inGraph.java)
+- []()
+- []()
 
 ## Sort
 - [insertion_sort](src/typical_problem/sort/insertion_sort.java)
