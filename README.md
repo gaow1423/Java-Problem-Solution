@@ -18,7 +18,7 @@
 - [Two Pointers](#Two-Pointers)
 - [Breadth-first Search]()
 - [Backtracking](#backtracking)
-- [Stack]()
+- [Stack](#Stack)
 - [Design](#Design)
 - [Greedy](#Greedy)
 - [Linked List](#linked-list)
@@ -227,6 +227,8 @@
 
 ### Stack
 - [Implement_Queue_using_Stacks](src/topics/Stack/232_Implement_Queue_using_Stacks.java)
+- [Basic_Calculator_III](src/topics/Stack/772_Basic_Calculator_III.java)
+- [Basic_Calculator](src/topics/Stack/224_Basic_Calculator.java)
 - []()
 - []()
 
