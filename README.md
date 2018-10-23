@@ -20,7 +20,7 @@
 - [Backtracking](#backtracking)
 - [Stack]()
 - [Design](#Design)
-- [Greedy]()
+- [Greedy](#Greedy)
 - [Linked List](#linked-list)
 - [Bit Manipulation](#bit-manipulation)
 - [Heap]()
@@ -216,6 +216,11 @@
 - [LRU_Cache](src/topics/Design/146_LRU_Cache.java)
 - [LFU_Cache](src/topics/Design/460_LFU_Cache.java)
 - []()
+- []()
+- []()
+
+### Greedy
+- [Queue_Reconstruction_by_Height](src/topics/Greedy/406_Queue_Reconstruction_by_Height.java)
 - []()
 - []()
 
