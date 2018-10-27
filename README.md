@@ -18,9 +18,9 @@
 - [Two Pointers](#Two-Pointers)
 - [Breadth-first Search]()
 - [Backtracking](#backtracking)
-- [Stack]()
+- [Stack](#Stack)
 - [Design](#Design)
-- [Greedy]()
+- [Greedy](#Greedy)
 - [Linked List](#linked-list)
 - [Bit Manipulation](#bit-manipulation)
 - [Heap]()
@@ -219,10 +219,17 @@
 - []()
 - []()
 
+### Greedy
+- [Queue_Reconstruction_by_Height](src/topics/Greedy/406_Queue_Reconstruction_by_Height.java)
+- []()
+- []()
+
 
 ### Stack
 - [Implement_Queue_using_Stacks](src/topics/Stack/232_Implement_Queue_using_Stacks.java)
-- []()
+- [Basic_Calculator_III](src/topics/Stack/772_Basic_Calculator_III.java)
+- [Basic_Calculator](src/topics/Stack/224_Basic_Calculator.java)
+- [Basic_Calculator](src/topics/Stack/227_Basic_Calculator_II)
 - []()
 
 ### Linked List
