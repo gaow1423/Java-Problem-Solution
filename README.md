@@ -121,7 +121,8 @@
 - [Range_Sum_Query-Immutable](src/topics/Dynamic-Prrogramming/303_Range_Sum_Query-Immutable.java)
 - [Unique_Paths](src/topics/Dynamic-Prrogramming/62_Unique_Paths.java)
 - [Palindromic_Substrings](src/topics/Dynamic-Prrogramming/647_Palindromic_Substrings.java)
-- []()
+- [Unique_Binary_Search_Tree_II](src/topics/Dynamic-Prrogramming/95_Unique_Binary_Search_Tree_II.java)
+- [Arithmetic_Slices](src/topics/Dynamic-Prrogramming/413_Arithmetic_Slices.java)
 
 ### String
 - [Custom_Sort_String](src/topics/String/791_Custom_Sort_String.java)
