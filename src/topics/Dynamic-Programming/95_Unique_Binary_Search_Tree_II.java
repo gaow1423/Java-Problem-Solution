@@ -33,6 +33,14 @@ The above output corresponds to the 5 unique BST's shown below:
  */
 class Solution {
     public List<TreeNode> generateTrees(int n) {
-        //
+        // List<List<TreeNode>> res = new ArrayList<> ();
+        int[] bq = new int[n+1];
+        bq[0] = 1;
+        for(int i = 1; i <= n; i++){
+        	for(j = 1; j < i; j++){
+        		dp[i] = dp[j - 1] * dp[i - j];
+        	}
+        }
+        return dp[n];
     }
 }

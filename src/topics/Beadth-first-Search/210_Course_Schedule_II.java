@@ -27,14 +27,33 @@ You may assume that there are no duplicate edges in the input prerequisites.
 */
 
 class Solution {
-
+    public static int color;
+    public static boolean isFinish = true;
+    private static Queue<Integer> q = new LinkedList<>();
+    public static void dfs(LinkedList[] G, int v, int[] marked){
+        marked[v] = color;
+        for(int i = 0; i < G[v].size(); i++){
+            if(marked[(int) G[v].get(i)] == color){
+                isFinish = false;
+                return;
+            }
+            if(marked[(int) G[v].get(i)] != -1){
+                dfs(G, (int) G[v].get(i), marked);
+            }
+        }
+        q.offer(v);
+    }
 	public static void topological_sort(LinkedList<Integer> G){
 			int[] marked = new int[G.length];
 			for(int i = 0; i < G.length; i++){
 				marked[i] = -1;
 			}
 
-			for
+			for(int v = 0; v < G.length; v++){
+                color = v;
+                if(marked != -1)
+                    dfs(G, v, marked);
+            }
 	}
 
     public int[] findOrder(int numCourses, int[][] prerequisites) {
@@ -46,5 +65,12 @@ class Solution {
         	G[prerequisites[i][0]].add(prerequisites[i][1]);
         }
         topological_sort(G);
+        if(!isFinish)
+            return new int[0];
+        int[] res = new int[q.size()];
+        for(int i = 0; i < res.length; i++){
+            res[i] = q.poll();
+        }
+        return res;
     }
 }
