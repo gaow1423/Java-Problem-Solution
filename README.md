@@ -123,6 +123,9 @@
 - [Palindromic_Substrings](src/topics/Dynamic-Prrogramming/647_Palindromic_Substrings.java)
 - [Unique_Binary_Search_Tree_II](src/topics/Dynamic-Prrogramming/95_Unique_Binary_Search_Tree_II.java)
 - [Arithmetic_Slices](src/topics/Dynamic-Prrogramming/413_Arithmetic_Slices.java)
+- [Regular_Expression_Matching](src/topics/Dynamic-Prrogramming/10_Regular_Expression_Matching.java)
+- []()
+- []()
 
 ### String
 - [Custom_Sort_String](src/topics/String/791_Custom_Sort_String.java)
@@ -137,7 +140,7 @@
 - [String_to_Integer_atoi](src/topics/String/8_String_to_Integer_atoi.java)
 - [Implement_strStr](src/topics/String/8_Implement_strStr.java)
 - [Next_Closest_Time](src/topics/String/681_Next_Closest_Time.java)
-
+- [Read_N_Characters_Given_Read4_II-Call_multiple_times](src/topics/String/158_Read_N_Characters_Given_Read4_II-Call_multiple_times.java)
 
 ### Math
 - [Add_Strings](src/topics/Math/415_Add_Strings.java)
@@ -168,8 +171,8 @@
 - [Group_Anagrams](src/topics/Hash_Table/49_Group_Anagrams.java)
 - [Subdomain_Visit_Count](src/topics/Hash_Table/811_Subdomain_Visit_Count.java)
 - [Copy_List_with_Random_Pointer](src/topics/Hash_Table/138_Copy_List_with_Random_Pointer.java)
-- [Minimum_Index_Sum_of_Two_Lists](rc/topics/Hash_Table/599_Minimum_Index_Sum_of_Two_Lists.java)
-- []()
+- [Minimum_Index_Sum_of_Two_Lists](src/topics/Hash_Table/599_Minimum_Index_Sum_of_Two_Lists.java)
+- [Binary_Tree_Vertical_Order_Traversal]()
 
 ### Depth-first Search
 - [Max_Area_of_Island](src/topics/Depth-first-Search/695_Max_Area_of_Island.java)
