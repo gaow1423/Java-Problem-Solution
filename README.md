@@ -13,10 +13,10 @@
 - [Math](#math)
 - [Tree](#tree)
 - [Hash Table](#hash-table)
-- [Depth-first Search](#Depth-first Search)
+- [Depth-first Search](#Depth-first-Search)
 - [Binary Search](#binary-search)
 - [Two Pointers](#Two-Pointers)
-- [Breadth-first Search](#Breadth-first Search)
+- [Breadth-first Search](#Breadth-first-Search)
 - [Backtracking](#backtracking)
 - [Stack](#Stack)
 - [Design](#Design)
@@ -174,7 +174,7 @@
 - [Minimum_Index_Sum_of_Two_Lists](src/topics/Hash_Table/599_Minimum_Index_Sum_of_Two_Lists.java)
 - [Binary_Tree_Vertical_Order_Traversal]()
 
-### Depth-first Search
+### Depth-first-Search
 - [Max_Area_of_Island](src/topics/Depth-first-Search/695_Max_Area_of_Island.java)
 - [Maximum_Depth_of_N-ary_Tree](src/topics/Depth-first-Search/559_Maximum_Depth_of_N-ary_Tree.java)
 - [Convert_Sorted_List_to_Binary_Search_Tree](src/topics/Depth-first-Search/109_Convert_Sorted_List_to_Binary_Search_Tree.java)
@@ -204,7 +204,7 @@
 - []()
 - []()
 
-### Breadth-first Search
+### Breadth-first-Search
 - []()
 - []()
 - []()
