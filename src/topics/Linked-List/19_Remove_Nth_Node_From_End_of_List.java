@@ -25,6 +25,19 @@ Could you do this in one pass?
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        
+    	ListNode dummy = new ListNode(9527);
+    	dummy.next = head;
+    	ListNode fastNode = headNode;
+    	ListNode slowNode = headNode;
+    	while(fastNode.next != null){
+    			if(n <= 0)
+    				slowNode = slowNode.next;
+    			fastNode = fastNode.next;
+    			n--;
+    	}
+    	if(slowNode.next != null){
+    		slowNode.next = slowNode.next.next;
+    	}
+    	return headNode.next;
     }
 }
