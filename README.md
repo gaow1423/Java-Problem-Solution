@@ -110,6 +110,7 @@
 - [Toeplitz_Matrix](src/topics/Array/766_Toeplitz_Matrix.java)
 - [Find_the_Celebrity](src/topics/Array/277_Find_the_Celebrity.java)
 - [Array_Partition_I](src/topics/Array/561_Array_Partition_I.java)
+- [48_Rotate_Image.java](src/topics/Array/48_Rotate_Image.java)
 
 ###Dynamic-Programming
 - [Paint_House](src/topics/Dynamic-Programming/256_Paint_House)
@@ -188,7 +189,7 @@
 - [Peak_Index_in_a_Mountain_Array](src/topics/Binary-Search/852_Peak_Index_in_a_Mountain_Array.java)
 - [Search_in_a_Sorted_Array_of_Unknown_Size](src/topics/Binary-Search/702_earch_in_a_Sorted_Array_of_Unknown_Size.java)
 - [Search_in_Rotated_Sorted_Array](src/topics/Binary-Search/33_Search_in_Rotated_Sorted_Array.java)
-- []()
+- [Find_Minimum_in_Rotated_Sorted_Array](src/topics/Binary-Search/153_Find_Minimum_in_Rotated_Sorted_Array.java)
 - []()
 - []()
 - []()
@@ -196,7 +197,7 @@
 
 ### Two Pointer
 - [3Sum](src/topics/Two-Pointers/15_3Sum.java)
-- []()
+- [4Sum](src/topics/Two-Pointers/18_4Sum.java)
 - []()
 - []()
 - []()
@@ -205,7 +206,7 @@
 - []()
 
 ### Breadth-first-Search
-- []()
+- [Shortest_Distance_from_All_Buildings](src/topics/Breadth-first-Search/317_Shortest_Distance_from_All_Buildings.java)
 - []()
 - []()
 - []()
@@ -254,7 +255,7 @@
 - [Reorder_List](src/topics/Linked-List/143_Reorder_List.java)
 - [Path_Sum_III](src/topics/Linked-List/437_Path_Sum_III.java)
 - [Intersection_of_Two_Linked_Lists](src/topics/Linked-List/160_Intersection_of_Two_Linked_Lists.java)
-- []()
+- [Remove_Nth_Node_From_End_of_List](src/topics/Linked-List/19_Remove_Nth_Node_From_End_of_List.java)
 - []()
 - []()
 
