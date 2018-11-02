@@ -110,7 +110,10 @@
 - [Toeplitz_Matrix](src/topics/Array/766_Toeplitz_Matrix.java)
 - [Find_the_Celebrity](src/topics/Array/277_Find_the_Celebrity.java)
 - [Array_Partition_I](src/topics/Array/561_Array_Partition_I.java)
-- [48_Rotate_Image.java](src/topics/Array/48_Rotate_Image.java)
+- [Rotate_Image](src/topics/Array/48_Rotate_Image.java)
+- [Word_Search](src/topics/Array/79_Word_Search.java)
+- []()
+
 
 ###Dynamic-Programming
 - [Paint_House](src/topics/Dynamic-Programming/256_Paint_House)
@@ -256,7 +259,7 @@
 - [Path_Sum_III](src/topics/Linked-List/437_Path_Sum_III.java)
 - [Intersection_of_Two_Linked_Lists](src/topics/Linked-List/160_Intersection_of_Two_Linked_Lists.java)
 - [Remove_Nth_Node_From_End_of_List](src/topics/Linked-List/19_Remove_Nth_Node_From_End_of_List.java)
-- []()
+- [Palindrome_Linked_List](src/topics/Linked-List/234_Palindrome_Linked_List.java)
 - []()
 
 

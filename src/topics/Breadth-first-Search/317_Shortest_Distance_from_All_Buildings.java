@@ -24,39 +24,56 @@ There will be at least one building. If it is not possible to build such house a
 */
 class Solution {
     public int shortestDistance(int[][] grid) {
-    	int r = grid.length;
-    	int c = grid[0].length;
-    	final int[] shift = new int[] {0, 1, 0, -1, 0};
-    	if(grid == null || grid[0].length == 0)
-    		return 0;
-    	int count = 0;
-    	List<int[]> building = new ArrayList<> ();
-    	for(int i = 0; i < r; i++){
-    		for(int j = 0; j < c; j++){
-    			if(grid[i][j] == 0)
-    				list.add(new int[] {i, j}); //the cordinate of building in the map.
-    		}
-    	}
-
-    	for(int i = 0; i < r; i++){
-    		for(int j = 0; j < c; j++){
-    			if(grid[i][j] == 0){
-    				Queue<int[]> q = new LinkedList<int []>();
-    				q.add(new int[] {i, j});
-    					while(!q.isEmpty()){
-    						int qsize = q.size();
-    						for(int k = 0; k < qsize; k++){
-    							
-    						}
-    						if(list.isEmpty())
-    							break;
-    					}
-    			}
-    		}
-    	}
-
-    	// boolean visited[][] = new boolean visited[r][c];
-    	// Queue<int[]> q = new LinkedList<int[]> ();
-
+        int r = grid.length;
+        int c = grid[0].length;
+        int dis[][] = new int[r][c];
+        int reach[][] = new int[r][c];
+        int building = 0;
+        final int[] shift = new int[] {0, 1, 0, -1, 0};
+        if(grid == null || grid[0].length == 0)
+            return 0;
+        List<int[]> list = new ArrayList<> ();
+        for(int i = 0; i < r; i++){
+            for(int j = 0; j < c; j++){
+                if(grid[i][j] == 1){
+                    list.add(new int[] {i, j});
+                    building++;
+                }
+                
+            }
+        }
+        for(int i = 0; i < list.size(); i++){
+            int k[][] = new int[r][c];
+            boolean visited[][] = new boolean[r][c];
+            Queue<int[]> q = new LinkedList<> ();
+            q.add(new int[] {list.get(i)[0], list.get(i)[1]});
+            
+            while(!q.isEmpty()){
+                int[] cor = q.poll();
+                int nextr;
+                int nextc;
+                for(int j = 0; j < 4; j++){
+                    nextr = shift[j];
+                    nextc = shift[j+1];
+                    if(cor[0] + nextr >= 0 && cor[0] + nextr <= r-1 && cor[1] + nextc >= 0 && cor[1] + nextc <= c-1 && grid[cor[0] + nextr][cor[1] + nextc] == 0 && !visited[cor[0] + nextr][cor[1] + nextc]){
+                        q.add(new int[] {cor[0] + nextr, cor[1] + nextc});
+                        visited[cor[0] + nextr][cor[1] + nextc] = true;
+                        k[cor[0] + nextr][cor[1] + nextc] = k[cor[0]][cor[1]] + 1;
+                        reach[cor[0] + nextr][cor[1] + nextc]++;
+                        dis[cor[0] + nextr][cor[1] + nextc] += k[cor[0] + nextr][cor[1] + nextc];
+                    }
+                }
+            }
+        }
+        int min = Integer.MAX_VALUE;
+        for(int i = 0; i < r; i++){
+            for(int j = 0; j < c; j++){
+                if(reach[i][j] == building && dis[i][j] <= min){
+                    
+                        min = dis[i][j];
+                }
+            }
+        }
+        return min == Integer.MAX_VALUE ? -1 : min;
     }
 }
