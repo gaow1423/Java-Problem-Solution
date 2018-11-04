@@ -145,6 +145,10 @@
 - [Implement_strStr](src/topics/String/8_Implement_strStr.java)
 - [Next_Closest_Time](src/topics/String/681_Next_Closest_Time.java)
 - [Read_N_Characters_Given_Read4_II-Call_multiple_times](src/topics/String/158_Read_N_Characters_Given_Read4_II-Call_multiple_times.java)
+- [Longest_Common_Prefix](src/topics/String/14_Longest_Common_Prefix.java)
+- []()
+- []()
+- []()
 
 ### Math
 - [Add_Strings](src/topics/Math/415_Add_Strings.java)
@@ -168,6 +172,8 @@
 - [Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal](src/topics/Tree/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java)
 - [Path_Sum_III](src/topics/Tree/437_Path_Sum_III.java)
 - [Delete_Node_in_a_BST](src/topics/Tree/450_Delete_Node_in_a_BST.java)
+- [Path_Sum_II](src/topics/Tree?113_Path_Sum_II.java)
+- []()
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Table/246_Strobogrammatic_Number.java)
@@ -176,7 +182,9 @@
 - [Subdomain_Visit_Count](src/topics/Hash_Table/811_Subdomain_Visit_Count.java)
 - [Copy_List_with_Random_Pointer](src/topics/Hash_Table/138_Copy_List_with_Random_Pointer.java)
 - [Minimum_Index_Sum_of_Two_Lists](src/topics/Hash_Table/599_Minimum_Index_Sum_of_Two_Lists.java)
-- [Binary_Tree_Vertical_Order_Traversal]()
+- [Top_K_Frequent_Elements](src/topics/Hash_Table/347_Top_K_Frequent_Elements.java)
+- []()
+- []()
 
 ### Depth-first-Search
 - [Max_Area_of_Island](src/topics/Depth-first-Search/695_Max_Area_of_Island.java)
@@ -210,8 +218,8 @@
 
 ### Breadth-first-Search
 - [Shortest_Distance_from_All_Buildings](src/topics/Breadth-first-Search/317_Shortest_Distance_from_All_Buildings.java)
-- []()
-- []()
+- [Word_Ladder](src/topics/Breath-first-Search/127_Word_Ladder.java)
+- [Word_Ladder_II](src/topics/Breath-first-Search/126_Word_Ladder_II.java)
 - []()
 - []()
 - []()
@@ -260,7 +268,7 @@
 - [Intersection_of_Two_Linked_Lists](src/topics/Linked-List/160_Intersection_of_Two_Linked_Lists.java)
 - [Remove_Nth_Node_From_End_of_List](src/topics/Linked-List/19_Remove_Nth_Node_From_End_of_List.java)
 - [Palindrome_Linked_List](src/topics/Linked-List/234_Palindrome_Linked_List.java)
-- []()
+- [Merge_K_SOrted_Lists](src/topics/Linked-List/23_Merge_K_SOrted_Lists.java)
 
 
 ### Bit Manipulation
