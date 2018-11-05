@@ -168,8 +168,8 @@
 - [Group_Anagrams](src/topics/Hash_Table/49_Group_Anagrams.java)
 - [Subdomain_Visit_Count](src/topics/Hash_Table/811_Subdomain_Visit_Count.java)
 - [Copy_List_with_Random_Pointer](src/topics/Hash_Table/138_Copy_List_with_Random_Pointer.java)
-- [Minimum_Index_Sum_of_Two_Lists](rc/topics/Hash_Table/599_Minimum_Index_Sum_of_Two_Lists.java)
-- []()
+- [Minimum_Index_Sum_of_Two_Lists](src/topics/Hash_Table/599_Minimum_Index_Sum_of_Two_Lists.java)
+- [Fruit_Into_Baskets](src/topics/Hash_Table/904_Fruit_Into_Baskets.java)
 
 ### Depth-first Search
 - [Max_Area_of_Island](src/topics/Depth-first-Search/695_Max_Area_of_Island.java)
@@ -177,7 +177,7 @@
 - [Convert_Sorted_List_to_Binary_Search_Tree](src/topics/Depth-first-Search/109_Convert_Sorted_List_to_Binary_Search_Tree.java)
 - [Nested_List_Weight_Sum](src/topics/Depth-first-Search/339_Nested_List_Weight_Sum.java)
 - [Nested_List_Weight_Sum_II](src/topics/Depth-first-Search/364_Nested_List_Weight_Sum_II.java)
-- []()
+- [Alien_Dictionary](src/topics/Depth-first-Search/269_Alien_Dictionary.java)
 - []()
 
 ### Binary Search
@@ -185,7 +185,7 @@
 - [Peak_Index_in_a_Mountain_Array](src/topics/Binary-Search/852_Peak_Index_in_a_Mountain_Array.java)
 - [Search_in_a_Sorted_Array_of_Unknown_Size](src/topics/Binary-Search/702_earch_in_a_Sorted_Array_of_Unknown_Size.java)
 - [Search_in_Rotated_Sorted_Array](src/topics/Binary-Search/33_Search_in_Rotated_Sorted_Array.java)
-- []()
+- [Minimum_Absolute_Difference_in_BST](src/topics/Binary-Search/530_Minimum_Absolute_Difference_in_BST.java)
 - []()
 - []()
 - []()
@@ -193,8 +193,8 @@
 
 ### Two Pointer
 - [3Sum](src/topics/Two-Pointers/15_3Sum.java)
-- []()
-- []()
+- [K-diff_Pairs_in_an_Array](src/topics/Two-Pointers/532_K-diff_Pairs_in_an_Array.java)
+- [Container_With_Most_Water](src/topics/Two-Pointers/11_Container_With_Most_Water.java)
 - []()
 - []()
 - []()
