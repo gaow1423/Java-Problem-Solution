@@ -13,10 +13,10 @@
 - [Math](#math)
 - [Tree](#tree)
 - [Hash Table](#hash-table)
-- [Depth-first Search](#Depth-first Search)
+- [Depth-first Search](#Depth-first-Search)
 - [Binary Search](#binary-search)
 - [Two Pointers](#Two-Pointers)
-- [Breadth-first Search]()
+- [Breadth-first Search](#Breadth-first-Search)
 - [Backtracking](#backtracking)
 - [Stack](#Stack)
 - [Design](#Design)
@@ -110,6 +110,10 @@
 - [Toeplitz_Matrix](src/topics/Array/766_Toeplitz_Matrix.java)
 - [Find_the_Celebrity](src/topics/Array/277_Find_the_Celebrity.java)
 - [Array_Partition_I](src/topics/Array/561_Array_Partition_I.java)
+- [Rotate_Image](src/topics/Array/48_Rotate_Image.java)
+- [Word_Search](src/topics/Array/79_Word_Search.java)
+- []()
+
 
 ###Dynamic-Programming
 - [Paint_House](src/topics/Dynamic-Programming/256_Paint_House)
@@ -123,6 +127,9 @@
 - [Palindromic_Substrings](src/topics/Dynamic-Prrogramming/647_Palindromic_Substrings.java)
 - [Unique_Binary_Search_Tree_II](src/topics/Dynamic-Prrogramming/95_Unique_Binary_Search_Tree_II.java)
 - [Arithmetic_Slices](src/topics/Dynamic-Prrogramming/413_Arithmetic_Slices.java)
+- [Regular_Expression_Matching](src/topics/Dynamic-Prrogramming/10_Regular_Expression_Matching.java)
+- []()
+- []()
 
 ### String
 - [Custom_Sort_String](src/topics/String/791_Custom_Sort_String.java)
@@ -137,7 +144,11 @@
 - [String_to_Integer_atoi](src/topics/String/8_String_to_Integer_atoi.java)
 - [Implement_strStr](src/topics/String/8_Implement_strStr.java)
 - [Next_Closest_Time](src/topics/String/681_Next_Closest_Time.java)
-
+- [Read_N_Characters_Given_Read4_II-Call_multiple_times](src/topics/String/158_Read_N_Characters_Given_Read4_II-Call_multiple_times.java)
+- [Longest_Common_Prefix](src/topics/String/14_Longest_Common_Prefix.java)
+- []()
+- []()
+- []()
 
 ### Math
 - [Add_Strings](src/topics/Math/415_Add_Strings.java)
@@ -161,6 +172,8 @@
 - [Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal](src/topics/Tree/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java)
 - [Path_Sum_III](src/topics/Tree/437_Path_Sum_III.java)
 - [Delete_Node_in_a_BST](src/topics/Tree/450_Delete_Node_in_a_BST.java)
+- [Path_Sum_II](src/topics/Tree?113_Path_Sum_II.java)
+- []()
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Table/246_Strobogrammatic_Number.java)
@@ -169,15 +182,25 @@
 - [Subdomain_Visit_Count](src/topics/Hash_Table/811_Subdomain_Visit_Count.java)
 - [Copy_List_with_Random_Pointer](src/topics/Hash_Table/138_Copy_List_with_Random_Pointer.java)
 - [Minimum_Index_Sum_of_Two_Lists](src/topics/Hash_Table/599_Minimum_Index_Sum_of_Two_Lists.java)
+<<<<<<< HEAD
 - [Fruit_Into_Baskets](src/topics/Hash_Table/904_Fruit_Into_Baskets.java)
+=======
+- [Top_K_Frequent_Elements](src/topics/Hash_Table/347_Top_K_Frequent_Elements.java)
+- []()
+- []()
+>>>>>>> 736b0676f917ff5fd51834d2de789550ecb1ee9d
 
-### Depth-first Search
+### Depth-first-Search
 - [Max_Area_of_Island](src/topics/Depth-first-Search/695_Max_Area_of_Island.java)
 - [Maximum_Depth_of_N-ary_Tree](src/topics/Depth-first-Search/559_Maximum_Depth_of_N-ary_Tree.java)
 - [Convert_Sorted_List_to_Binary_Search_Tree](src/topics/Depth-first-Search/109_Convert_Sorted_List_to_Binary_Search_Tree.java)
 - [Nested_List_Weight_Sum](src/topics/Depth-first-Search/339_Nested_List_Weight_Sum.java)
 - [Nested_List_Weight_Sum_II](src/topics/Depth-first-Search/364_Nested_List_Weight_Sum_II.java)
+<<<<<<< HEAD
 - [Alien_Dictionary](src/topics/Depth-first-Search/269_Alien_Dictionary.java)
+=======
+- [Is_Graph_Bipartite](src/topics/Depth-first-Search/785_Is_Graph_Bipartite.java)
+>>>>>>> 736b0676f917ff5fd51834d2de789550ecb1ee9d
 - []()
 
 ### Binary Search
@@ -185,7 +208,11 @@
 - [Peak_Index_in_a_Mountain_Array](src/topics/Binary-Search/852_Peak_Index_in_a_Mountain_Array.java)
 - [Search_in_a_Sorted_Array_of_Unknown_Size](src/topics/Binary-Search/702_earch_in_a_Sorted_Array_of_Unknown_Size.java)
 - [Search_in_Rotated_Sorted_Array](src/topics/Binary-Search/33_Search_in_Rotated_Sorted_Array.java)
+<<<<<<< HEAD
 - [Minimum_Absolute_Difference_in_BST](src/topics/Binary-Search/530_Minimum_Absolute_Difference_in_BST.java)
+=======
+- [Find_Minimum_in_Rotated_Sorted_Array](src/topics/Binary-Search/153_Find_Minimum_in_Rotated_Sorted_Array.java)
+>>>>>>> 736b0676f917ff5fd51834d2de789550ecb1ee9d
 - []()
 - []()
 - []()
@@ -193,10 +220,23 @@
 
 ### Two Pointer
 - [3Sum](src/topics/Two-Pointers/15_3Sum.java)
+<<<<<<< HEAD
 - [K-diff_Pairs_in_an_Array](src/topics/Two-Pointers/532_K-diff_Pairs_in_an_Array.java)
 - [Container_With_Most_Water](src/topics/Two-Pointers/11_Container_With_Most_Water.java)
+=======
+- [4Sum](src/topics/Two-Pointers/18_4Sum.java)
 - []()
 - []()
+- []()
+>>>>>>> 736b0676f917ff5fd51834d2de789550ecb1ee9d
+- []()
+- []()
+- []()
+
+### Breadth-first-Search
+- [Shortest_Distance_from_All_Buildings](src/topics/Breadth-first-Search/317_Shortest_Distance_from_All_Buildings.java)
+- [Word_Ladder](src/topics/Breath-first-Search/127_Word_Ladder.java)
+- [Word_Ladder_II](src/topics/Breath-first-Search/126_Word_Ladder_II.java)
 - []()
 - []()
 - []()
@@ -225,8 +265,7 @@
 
 ### Greedy
 - [Queue_Reconstruction_by_Height](src/topics/Greedy/406_Queue_Reconstruction_by_Height.java)
-- []()
-- []()
+- [Jump_Game_II](src/topics/Greedy/45_Jump_Game_II.java)
 
 
 ### Stack
@@ -234,7 +273,7 @@
 - [Basic_Calculator_III](src/topics/Stack/772_Basic_Calculator_III.java)
 - [Basic_Calculator](src/topics/Stack/224_Basic_Calculator.java)
 - [Basic_Calculator](src/topics/Stack/227_Basic_Calculator_II)
-- []()
+- [Backspace_String_Compare](src/topics/Stack/844_Backspace_String_Compare.java)
 
 ### Linked List
 - [Add_Two_Numbers](src/topics/Linked-List/2_Add_Two_Numbers.java)
@@ -244,9 +283,9 @@
 - [Reorder_List](src/topics/Linked-List/143_Reorder_List.java)
 - [Path_Sum_III](src/topics/Linked-List/437_Path_Sum_III.java)
 - [Intersection_of_Two_Linked_Lists](src/topics/Linked-List/160_Intersection_of_Two_Linked_Lists.java)
-- []()
-- []()
-- []()
+- [Remove_Nth_Node_From_End_of_List](src/topics/Linked-List/19_Remove_Nth_Node_From_End_of_List.java)
+- [Palindrome_Linked_List](src/topics/Linked-List/234_Palindrome_Linked_List.java)
+- [Merge_K_SOrted_Lists](src/topics/Linked-List/23_Merge_K_SOrted_Lists.java)
 
 
 ### Bit Manipulation
