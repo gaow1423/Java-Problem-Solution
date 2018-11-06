@@ -177,6 +177,9 @@
 - [Delete_Node_in_a_BST](src/topics/Tree/450_Delete_Node_in_a_BST.java)
 - [Path_Sum_II](src/topics/Tree/113_Path_Sum_II.java)
 - [Sum_of_Left_Leaves](src/topics/Tree/404_Sum_of_Left_Leaves.java)
+- [Convert_BST_to_Greater_Tree](src/topics/Tree/538_Convert_BST_to_Greater_Tree.java)
+- [Average_of_Levels_in_Binary_Tree](src/topics/Tree/637_Average_of_Levels_in_Binary_Tree.java)
+- [Serialize_and_Deserialize_BST](src/topics/Tree/449_Serialize_and_Deserialize_BST.java)
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Table/246_Strobogrammatic_Number.java)
