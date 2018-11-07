@@ -181,6 +181,9 @@
 - [Average_of_Levels_in_Binary_Tree](src/topics/Tree/637_Average_of_Levels_in_Binary_Tree.java)
 - [Serialize_and_Deserialize_BST](src/topics/Tree/449_Serialize_and_Deserialize_BST.java)
 - [Longest_Univalue_Path](src/topics/Tree/687_Longest_Univalue_Path.java)
+- [Search_in_a_Binary_Search_Tree](src/topics/Tree/700_Search_in_a_Binary_Search_Tree.java)
+- [Leaf-Similar_Trees](src/topics/Tree/872_Leaf-Similar_Trees.java)
+- [Increasing_Order_Search_Tree](src/topics/Tree/897_Increasing_Order_Search_Tree.java)
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Table/246_Strobogrammatic_Number.java)
