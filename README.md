@@ -180,6 +180,7 @@
 - [Convert_BST_to_Greater_Tree](src/topics/Tree/538_Convert_BST_to_Greater_Tree.java)
 - [Average_of_Levels_in_Binary_Tree](src/topics/Tree/637_Average_of_Levels_in_Binary_Tree.java)
 - [Serialize_and_Deserialize_BST](src/topics/Tree/449_Serialize_and_Deserialize_BST.java)
+- [Longest_Univalue_Path](src/topics/Tree/687_Longest_Univalue_Path.java)
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Table/246_Strobogrammatic_Number.java)
