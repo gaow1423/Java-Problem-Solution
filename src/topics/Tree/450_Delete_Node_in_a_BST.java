@@ -48,6 +48,30 @@ Another valid answer is [5,2,6,null,4,null,7].
  */
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-        
+        if(root == null)
+          return null;
+        else if(key < root.val){
+          root.left = deleteNode(root.left, key);
+        }
+        else if(key > root.val){
+          root.right = deleteNode(root.right, key);
+        }
+        else{
+          if(root.left == null)
+            return root.right;
+          else if(root.right == null)
+            return root.left;
+          TreeNode minnode = findmin(root.right);
+          root.val = minnode.val;
+          root.right = deleteNode(root.right, root.val);
+        }
+        return root;
+    }
+    public TreeNode findmin(TreeNode root){
+      TreeNode node = root;
+      while(node.left != null){
+        node = node.left;
+      }
+      return node;
     }
 }
