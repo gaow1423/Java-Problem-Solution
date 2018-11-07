@@ -112,6 +112,9 @@
 - [Array_Partition_I](src/topics/Array/561_Array_Partition_I.java)
 - [Rotate_Image](src/topics/Array/48_Rotate_Image.java)
 - [Word_Search](src/topics/Array/79_Word_Search.java)
+- [Degree_of_an_Array](src/topics/Array/697_Degree_of_an_Array.java)
+- []()
+- []()
 - []()
 
 
@@ -172,8 +175,12 @@
 - [Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal](src/topics/Tree/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java)
 - [Path_Sum_III](src/topics/Tree/437_Path_Sum_III.java)
 - [Delete_Node_in_a_BST](src/topics/Tree/450_Delete_Node_in_a_BST.java)
-- [Path_Sum_II](src/topics/Tree?113_Path_Sum_II.java)
-- []()
+- [Path_Sum_II](src/topics/Tree/113_Path_Sum_II.java)
+- [Sum_of_Left_Leaves](src/topics/Tree/404_Sum_of_Left_Leaves.java)
+- [Convert_BST_to_Greater_Tree](src/topics/Tree/538_Convert_BST_to_Greater_Tree.java)
+- [Average_of_Levels_in_Binary_Tree](src/topics/Tree/637_Average_of_Levels_in_Binary_Tree.java)
+- [Serialize_and_Deserialize_BST](src/topics/Tree/449_Serialize_and_Deserialize_BST.java)
+- [Longest_Univalue_Path](src/topics/Tree/687_Longest_Univalue_Path.java)
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Table/246_Strobogrammatic_Number.java)
@@ -182,13 +189,10 @@
 - [Subdomain_Visit_Count](src/topics/Hash_Table/811_Subdomain_Visit_Count.java)
 - [Copy_List_with_Random_Pointer](src/topics/Hash_Table/138_Copy_List_with_Random_Pointer.java)
 - [Minimum_Index_Sum_of_Two_Lists](src/topics/Hash_Table/599_Minimum_Index_Sum_of_Two_Lists.java)
-<<<<<<< HEAD
 - [Fruit_Into_Baskets](src/topics/Hash_Table/904_Fruit_Into_Baskets.java)
-=======
 - [Top_K_Frequent_Elements](src/topics/Hash_Table/347_Top_K_Frequent_Elements.java)
+- [Number of Boomerangs](src/topics/Hash_Table/447_Number_of_Boomerangs.java)
 - []()
-- []()
->>>>>>> 736b0676f917ff5fd51834d2de789550ecb1ee9d
 
 ### Depth-first-Search
 - [Max_Area_of_Island](src/topics/Depth-first-Search/695_Max_Area_of_Island.java)
@@ -196,11 +200,8 @@
 - [Convert_Sorted_List_to_Binary_Search_Tree](src/topics/Depth-first-Search/109_Convert_Sorted_List_to_Binary_Search_Tree.java)
 - [Nested_List_Weight_Sum](src/topics/Depth-first-Search/339_Nested_List_Weight_Sum.java)
 - [Nested_List_Weight_Sum_II](src/topics/Depth-first-Search/364_Nested_List_Weight_Sum_II.java)
-<<<<<<< HEAD
 - [Alien_Dictionary](src/topics/Depth-first-Search/269_Alien_Dictionary.java)
-=======
 - [Is_Graph_Bipartite](src/topics/Depth-first-Search/785_Is_Graph_Bipartite.java)
->>>>>>> 736b0676f917ff5fd51834d2de789550ecb1ee9d
 - []()
 
 ### Binary Search
@@ -208,11 +209,8 @@
 - [Peak_Index_in_a_Mountain_Array](src/topics/Binary-Search/852_Peak_Index_in_a_Mountain_Array.java)
 - [Search_in_a_Sorted_Array_of_Unknown_Size](src/topics/Binary-Search/702_earch_in_a_Sorted_Array_of_Unknown_Size.java)
 - [Search_in_Rotated_Sorted_Array](src/topics/Binary-Search/33_Search_in_Rotated_Sorted_Array.java)
-<<<<<<< HEAD
 - [Minimum_Absolute_Difference_in_BST](src/topics/Binary-Search/530_Minimum_Absolute_Difference_in_BST.java)
-=======
 - [Find_Minimum_in_Rotated_Sorted_Array](src/topics/Binary-Search/153_Find_Minimum_in_Rotated_Sorted_Array.java)
->>>>>>> 736b0676f917ff5fd51834d2de789550ecb1ee9d
 - []()
 - []()
 - []()
@@ -220,15 +218,11 @@
 
 ### Two Pointer
 - [3Sum](src/topics/Two-Pointers/15_3Sum.java)
-<<<<<<< HEAD
 - [K-diff_Pairs_in_an_Array](src/topics/Two-Pointers/532_K-diff_Pairs_in_an_Array.java)
 - [Container_With_Most_Water](src/topics/Two-Pointers/11_Container_With_Most_Water.java)
-=======
 - [4Sum](src/topics/Two-Pointers/18_4Sum.java)
 - []()
 - []()
-- []()
->>>>>>> 736b0676f917ff5fd51834d2de789550ecb1ee9d
 - []()
 - []()
 - []()
@@ -237,8 +231,8 @@
 - [Shortest_Distance_from_All_Buildings](src/topics/Breadth-first-Search/317_Shortest_Distance_from_All_Buildings.java)
 - [Word_Ladder](src/topics/Breath-first-Search/127_Word_Ladder.java)
 - [Word_Ladder_II](src/topics/Breath-first-Search/126_Word_Ladder_II.java)
-- []()
-- []()
+- [Clone_Graph](src/topics/Breath-first-Search/133_Clone_Graph.java)
+- [Flood_Fill](src/topics/Breath-first-Search/733_Flood_Fill.java)
 - []()
 
 ### Backtracking
