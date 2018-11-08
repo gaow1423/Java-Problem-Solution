@@ -187,8 +187,8 @@
 - [N-ary_Tree_Postorder_Traversal](src/topics/Tree/590_N-ary_Tree_Postorder_Traversal.java)
 - [N-ary_Tree_Preorder_Traversal](src/topics/Tree/589_N-ary_Tree_Preorder_Traversal.java)
 - [N-ary_Tree_Level_Order_Traversal](src/topics/Tree/429_N-ary_Tree_Level_Order_Traversal.java)
-- []()
-- []()
+- [Construct_String_from_Binary_Tree](src/topics/Tree/606_Construct_String_from_Binary_Tree.java)
+- [Second_Minimum_Node_ln_a_Binary_Tree](src/topics/Tree/671_Second_Minimum_Node_In_a_Binary_Tree.java)
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Table/246_Strobogrammatic_Number.java)
