@@ -191,7 +191,11 @@
 - [Second_Minimum_Node_ln_a_Binary_Tree](src/topics/Tree/671_Second_Minimum_Node_In_a_Binary_Tree.java)
 - [Subtree_of_Another_Tree](src/topics/Tree/572_Subtree_of_Another_Tree.java)
 - [Find_Mode_in_Binary_Search_Tree](src/topics/Tree/501_Find_Mode_in_Binary_Search_Tree.java)
-- []()
+- [Binary_Tree_Pruning](src/topics/Tree/814_Binary_Tree_Pruning.java)
+- [Insert_into_a_Binary_Search_Tree](src/topics/Tree/701_Insert_into_a_Binary_Search_Tree.java)
+- [All_Possible_Full_Binary_Trees](src/topics/Tree/894_All_Possible_Full_Binary_Trees.java)
+- [Find_Leaves_of_Binary_Tree](src/topics/Tree/366_Find_Leaves_of_Binary_Tree.java)
+- [Find_Bottom_Left_Tree_Value](src/topics/Tree/513_Find_Bottom_Left_Tree_Value.java)
 - []()
 
 ### Hash Table
