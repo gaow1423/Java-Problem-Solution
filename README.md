@@ -284,6 +284,7 @@
 - [Basic_Calculator](src/topics/Stack/224_Basic_Calculator.java)
 - [Basic_Calculator](src/topics/Stack/227_Basic_Calculator_II)
 - [Backspace_String_Compare](src/topics/Stack/844_Backspace_String_Compare.java)
+- [Exclusive_Time_of_Functions](src/topics/Stack/636_Exclusive_Time_of_Functions.java)
 
 ### Linked List
 - [Add_Two_Numbers](src/topics/Linked-List/2_Add_Two_Numbers.java)
