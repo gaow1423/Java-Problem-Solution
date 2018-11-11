@@ -196,7 +196,7 @@
 - [All_Possible_Full_Binary_Trees](src/topics/Tree/894_All_Possible_Full_Binary_Trees.java)
 - [Find_Leaves_of_Binary_Tree](src/topics/Tree/366_Find_Leaves_of_Binary_Tree.java)
 - [Find_Bottom_Left_Tree_Value](src/topics/Tree/513_Find_Bottom_Left_Tree_Value.java)
-- []()
+- [Smallest_Subtree_with_all_the_Deepest_Nodes](src/topics/Tree/865_Smallest_Subtree_with_all_the_Deepest_Nodes.java)
 
 ### Hash Table
 - [Strobogrammatic_Number](src/topics/Hash_Table/246_Strobogrammatic_Number.java)
