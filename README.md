@@ -219,7 +219,7 @@
 - [Alien_Dictionary](src/topics/Depth-first-Search/269_Alien_Dictionary.java)
 - [Is_Graph_Bipartite](src/topics/Depth-first-Search/785_Is_Graph_Bipartite.java)
 - [Number_of_Distinct_Islands](src/topics/Depth-first-Search/694_Number_of_Distinct_Island.java)
-- [Number_of_Distinct_Islands_II](src/topics/Depth-first-Search/711_Number_of_Distinct_Islands_II.java)
+
 
 ### Binary Search
 - [First_Bad_Version](src/topics/Binary-Search/278_First_Bad_Version.java)
