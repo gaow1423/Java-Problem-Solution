@@ -218,8 +218,7 @@
 - [Nested_List_Weight_Sum_II](src/topics/Depth-first-Search/364_Nested_List_Weight_Sum_II.java)
 - [Alien_Dictionary](src/topics/Depth-first-Search/269_Alien_Dictionary.java)
 - [Is_Graph_Bipartite](src/topics/Depth-first-Search/785_Is_Graph_Bipartite.java)
-- [Number_of_Distinct_Islands](src/topics/Depth-first-Search/694_Number_of_Distinct_Island.java)
-
+- []()
 
 ### Binary Search
 - [First_Bad_Version](src/topics/Binary-Search/278_First_Bad_Version.java)
@@ -270,7 +269,7 @@
 ### Design
 - [LRU_Cache](src/topics/Design/146_LRU_Cache.java)
 - [LFU_Cache](src/topics/Design/460_LFU_Cache.java)
-- []()
+- [Design Tic-Tac-Toe](src/topics/Design/348_Design_Tic-Tac-Toe.java)
 - []()
 - []()
 
@@ -287,7 +286,6 @@
 - [Backspace_String_Compare](src/topics/Stack/844_Backspace_String_Compare.java)
 - [Exclusive_Time_of_Functions](src/topics/Stack/636_Exclusive_Time_of_Functions.java)
 - [Add_Two_Numbers_II](src/topics/Stack/445_Add_Two_Numbers_II)
-- []()
 - []()
 
 ### Linked List

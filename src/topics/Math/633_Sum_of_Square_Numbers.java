@@ -12,14 +12,19 @@ Output: False
 
 class Solution {
     public boolean judgeSquareSum(int c) {
-        int num = (int) Math.sqrt(c);
-        for(int i = 1; i < num; i++){
-            for(int j = 1; j < num; j++){
-                if(i*i + j*j > c)
-                    break;
-                if(i*i + j*j == c)
-                    return true;
-            }
+        if(c < 0){
+        	return false;
+        }
+        int start = 0;
+        int end = (int) Math.sqrt(c);
+        while(start <= end){
+        	int res = start * start + end * end;
+        	if(res < c)
+        		start++;
+        	else if(res > c)
+        		end--;
+        	else
+        		return true;
         }
         return false;
     }
