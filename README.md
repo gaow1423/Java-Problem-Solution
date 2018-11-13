@@ -218,7 +218,7 @@
 - [Nested_List_Weight_Sum_II](src/topics/Depth-first-Search/364_Nested_List_Weight_Sum_II.java)
 - [Alien_Dictionary](src/topics/Depth-first-Search/269_Alien_Dictionary.java)
 - [Is_Graph_Bipartite](src/topics/Depth-first-Search/785_Is_Graph_Bipartite.java)
-- []()
+- [Walls_and_Gates](src/topics/Depth-first-Search/286_Walls_and_Gates.java)
 
 ### Binary Search
 - [First_Bad_Version](src/topics/Binary-Search/278_First_Bad_Version.java)
