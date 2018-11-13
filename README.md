@@ -114,7 +114,7 @@
 - [Word_Search](src/topics/Array/79_Word_Search.java)
 - [Degree_of_an_Array](src/topics/Array/697_Degree_of_an_Array.java)
 - [Rotate_Array](src/topics/Array/189_Rotate_Array.java)
-- []()
+- [Split_Array_with_Equal_Sum](src/topics/Array/548_Split_Array_with_Equal_Sum.java)
 - []()
 
 
@@ -149,7 +149,7 @@
 - [Next_Closest_Time](src/topics/String/681_Next_Closest_Time.java)
 - [Read_N_Characters_Given_Read4_II-Call_multiple_times](src/topics/String/158_Read_N_Characters_Given_Read4_II-Call_multiple_times.java)
 - [Longest_Common_Prefix](src/topics/String/14_Longest_Common_Prefix.java)
-- []()
+- [One_Edit_Distance](src/topics/String/161_One_Edit_Distance.java)
 - []()
 - []()
 
@@ -227,7 +227,7 @@
 - [Search_in_Rotated_Sorted_Array](src/topics/Binary-Search/33_Search_in_Rotated_Sorted_Array.java)
 - [Minimum_Absolute_Difference_in_BST](src/topics/Binary-Search/530_Minimum_Absolute_Difference_in_BST.java)
 - [Find_Minimum_in_Rotated_Sorted_Array](src/topics/Binary-Search/153_Find_Minimum_in_Rotated_Sorted_Array.java)
-- []()
+- [Find_First_and_Last_Position_of_Element_in_Sorted_Array](src/topics/Binary-Search/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java)
 - []()
 - []()
 - []()
@@ -237,7 +237,7 @@
 - [K-diff_Pairs_in_an_Array](src/topics/Two-Pointers/532_K-diff_Pairs_in_an_Array.java)
 - [Container_With_Most_Water](src/topics/Two-Pointers/11_Container_With_Most_Water.java)
 - [4Sum](src/topics/Two-Pointers/18_4Sum.java)
-- []()
+- [3Sum_Closest](src/topics/Two-Pointers/16_3Sum_Closest.java)
 - []()
 - []()
 - []()
