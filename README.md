@@ -113,7 +113,7 @@
 - [Rotate_Image](src/topics/Array/48_Rotate_Image.java)
 - [Word_Search](src/topics/Array/79_Word_Search.java)
 - [Degree_of_an_Array](src/topics/Array/697_Degree_of_an_Array.java)
-- []()
+- [Rotate_Array](src/topics/Array/189_Rotate_Array.java)
 - []()
 - []()
 
@@ -285,6 +285,9 @@
 - [Basic_Calculator](src/topics/Stack/227_Basic_Calculator_II)
 - [Backspace_String_Compare](src/topics/Stack/844_Backspace_String_Compare.java)
 - [Exclusive_Time_of_Functions](src/topics/Stack/636_Exclusive_Time_of_Functions.java)
+- [Add_Two_Numbers_II](src/topics/Stack/445_Add_Two_Numbers_II)
+- []()
+- []()
 
 ### Linked List
 - [Add_Two_Numbers](src/topics/Linked-List/2_Add_Two_Numbers.java)
