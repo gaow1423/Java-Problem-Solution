@@ -228,7 +228,7 @@
 - [Minimum_Absolute_Difference_in_BST](src/topics/Binary-Search/530_Minimum_Absolute_Difference_in_BST.java)
 - [Find_Minimum_in_Rotated_Sorted_Array](src/topics/Binary-Search/153_Find_Minimum_in_Rotated_Sorted_Array.java)
 - [Find_First_and_Last_Position_of_Element_in_Sorted_Array](src/topics/Binary-Search/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java)
-- []()
+- [Find_Peak_Element]((src/topics/Binary-Search/162_Find_Peak_Element.java)
 - []()
 - []()
 
